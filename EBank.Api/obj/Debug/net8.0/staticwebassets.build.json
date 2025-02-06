@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0v3aF8LJqISXALj8DMvJXKZ9hvbBklCPcF/yymF5fL4=",
+  "Source": "EBank.Api",
+  "BasePath": "_content/EBank.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

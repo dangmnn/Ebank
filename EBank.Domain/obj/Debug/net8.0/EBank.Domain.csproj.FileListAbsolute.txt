@@ -1,0 +1,14 @@
+C:\Users\9a3ng\OneDrive\Máy tính\Work\EBank\EBank.Domain\obj\Debug\net8.0\EBank.Domain.csproj.AssemblyReference.cache
+C:\Users\9a3ng\OneDrive\Máy tính\Work\EBank\EBank.Domain\obj\Debug\net8.0\EBank.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\9a3ng\OneDrive\Máy tính\Work\EBank\EBank.Domain\obj\Debug\net8.0\EBank.Domain.AssemblyInfoInputs.cache
+C:\Users\9a3ng\OneDrive\Máy tính\Work\EBank\EBank.Domain\obj\Debug\net8.0\EBank.Domain.AssemblyInfo.cs
+C:\Users\9a3ng\OneDrive\Máy tính\Work\EBank\EBank.Domain\obj\Debug\net8.0\EBank.Domain.csproj.CoreCompileInputs.cache
+C:\Users\9a3ng\OneDrive\Máy tính\Work\EBank\EBank.Domain\bin\Debug\net8.0\EBank.Domain.deps.json
+C:\Users\9a3ng\OneDrive\Máy tính\Work\EBank\EBank.Domain\bin\Debug\net8.0\EBank.Domain.runtimeconfig.json
+C:\Users\9a3ng\OneDrive\Máy tính\Work\EBank\EBank.Domain\bin\Debug\net8.0\EBank.Domain.dll
+C:\Users\9a3ng\OneDrive\Máy tính\Work\EBank\EBank.Domain\bin\Debug\net8.0\EBank.Domain.pdb
+C:\Users\9a3ng\OneDrive\Máy tính\Work\EBank\EBank.Domain\obj\Debug\net8.0\EBank.Domain.dll
+C:\Users\9a3ng\OneDrive\Máy tính\Work\EBank\EBank.Domain\obj\Debug\net8.0\refint\EBank.Domain.dll
+C:\Users\9a3ng\OneDrive\Máy tính\Work\EBank\EBank.Domain\obj\Debug\net8.0\EBank.Domain.pdb
+C:\Users\9a3ng\OneDrive\Máy tính\Work\EBank\EBank.Domain\obj\Debug\net8.0\EBank.Domain.genruntimeconfig.cache
+C:\Users\9a3ng\OneDrive\Máy tính\Work\EBank\EBank.Domain\obj\Debug\net8.0\ref\EBank.Domain.dll

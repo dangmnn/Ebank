@@ -1,0 +1,11 @@
+C:\Users\9a3ng\OneDrive\Máy tính\Work\EBank\EBank.Bussiness\bin\Debug\net8.0\EBank.Bussiness.deps.json
+C:\Users\9a3ng\OneDrive\Máy tính\Work\EBank\EBank.Bussiness\bin\Debug\net8.0\EBank.Bussiness.dll
+C:\Users\9a3ng\OneDrive\Máy tính\Work\EBank\EBank.Bussiness\bin\Debug\net8.0\EBank.Bussiness.pdb
+C:\Users\9a3ng\OneDrive\Máy tính\Work\EBank\EBank.Bussiness\obj\Debug\net8.0\EBank.Bussiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\9a3ng\OneDrive\Máy tính\Work\EBank\EBank.Bussiness\obj\Debug\net8.0\EBank.Bussiness.AssemblyInfoInputs.cache
+C:\Users\9a3ng\OneDrive\Máy tính\Work\EBank\EBank.Bussiness\obj\Debug\net8.0\EBank.Bussiness.AssemblyInfo.cs
+C:\Users\9a3ng\OneDrive\Máy tính\Work\EBank\EBank.Bussiness\obj\Debug\net8.0\EBank.Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\9a3ng\OneDrive\Máy tính\Work\EBank\EBank.Bussiness\obj\Debug\net8.0\EBank.Bussiness.dll
+C:\Users\9a3ng\OneDrive\Máy tính\Work\EBank\EBank.Bussiness\obj\Debug\net8.0\refint\EBank.Bussiness.dll
+C:\Users\9a3ng\OneDrive\Máy tính\Work\EBank\EBank.Bussiness\obj\Debug\net8.0\EBank.Bussiness.pdb
+C:\Users\9a3ng\OneDrive\Máy tính\Work\EBank\EBank.Bussiness\obj\Debug\net8.0\ref\EBank.Bussiness.dll
